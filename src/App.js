@@ -7,7 +7,7 @@ export default class App extends Component {
     super(props);
     this.state = {
       todos: [
-        { text: "Read daily" },
+        { text: "write daily" },
         { text: "Exercise daily" },
         { text: "Code daily" },
       ],
